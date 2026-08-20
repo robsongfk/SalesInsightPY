@@ -1,0 +1,2 @@
+# SalesInsightPY
+Mini projeto SCTEC
