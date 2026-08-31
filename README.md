@@ -15,14 +15,14 @@ Análise e visualização de dados de vendas desenvolvida em Python. O projeto c
 ## Conceitos aplicados (Módulo 01 - Semanas 01 a 08)
 - Lógica de programação: variáveis, tipos, operadores, condicionais
 - Estruturas de dados: listas, tuplas, dicionários e compostas
-- Funções: parâmetros, retorno, docstrings, lambda, ordem superior[cite: 1]
-- Leitura e escrita de arquivos CSV e JSON[cite: 1]
-- Módulo datetime e expressões regulares (re)[cite: 1]
-- Pandas: Series, DataFrames, filtros, groupby, transformações[cite: 1]
-- NumPy: arrays, operações vetorizadas e broadcasting[cite: 1]
-- Matplotlib e Seaborn: linha, barra, dispersão, subplots, export[cite: 1]
-- Introdução a classes: construtor, atributos e métodos[cite: 1]
-- Git e GitHub: branches, commits e GitFlow simplificado[cite: 1]
+- Funções: parâmetros, retorno, docstrings, lambda, ordem superior
+- Leitura e escrita de arquivos CSV e JSON
+- Módulo datetime e expressões regulares
+- Pandas: Series, DataFrames, filtros, groupby, transformações
+- NumPy: arrays, operações vetorizadas e broadcasting
+- Matplotlib e Seaborn: linha, barra, dispersão, subplots, export
+- Introdução a classes: construtor, atributos e métodos
+- Git e GitHub: branches, commits e GitFlow simplificado
 
 ## Como executar
 **Google Colab (Recomendado)**
@@ -36,11 +36,13 @@ Análise e visualização de dados de vendas desenvolvida em Python. O projeto c
 - **Tratamento de Strings com Regex:** Utilizamos a biblioteca `re` para garantir a extração segura de caracteres alfanuméricos e formatar rigorosamente o padrão de clientes, evitando falhas silenciosas na agregação de dados.
 
 ## Ferramentas utilizadas
-- Python 3.10+[cite: 1]
-- Google Colab[cite: 1]
-- Bibliotecas: pandas, numpy, matplotlib, seaborn, re, json, datetime, os, random[cite: 1]
-- GitHub para versionamento[cite: 1]
-- Kanban para gestão visual do projeto[cite: 1]
+- Python 3.10+
+- Google Colab
+- Bibliotecas: pandas, numpy, matplotlib, seaborn, re, json, datetime, os, random
+- GitHub para versionamento
+- Kanban no Trello para gestão visual do projeto
 
 ## Vídeo de demonstração
+
+https://drive.google.com/file/d/1tU-8m7uV2IKYhdjAXhY-FnYH8kktGaeu/view?usp=sharing
 
