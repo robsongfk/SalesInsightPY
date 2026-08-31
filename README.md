@@ -43,4 +43,4 @@ Análise e visualização de dados de vendas desenvolvida em Python. O projeto c
 - Kanban para gestão visual do projeto[cite: 1]
 
 ## Vídeo de demonstração
-[COLE O LINK DO SEU VÍDEO AQUI]
+
