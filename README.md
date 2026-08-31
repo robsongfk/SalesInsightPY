@@ -44,5 +44,5 @@ Análise e visualização de dados de vendas desenvolvida em Python. O projeto c
 
 ## Vídeo de demonstração
 
-https://drive.google.com/file/d/1tU-8m7uV2IKYhdjAXhY-FnYH8kktGaeu/view?usp=sharing
+https://drive.google.com/file/d/1VeI9177Fgzt38N0VgOsyQ9zzgzCm-wOd/view?usp=sharing
 
